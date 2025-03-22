@@ -1,0 +1,15 @@
+/*ul li:nth-child(2n + 1)  { 2n+1 = 2(0)+1=1 eso va remplazando n por 1,2,3,4 en pocas palabras lo itera, si requiero coger 4,8,12 etc se puede usar este tambien 4n+4 
+  border: 2px solid red;
+}*/
+
+/*ul li:nth-child(odd)  { los numeros impares o nones
+  border: 2px solid red;
+}*/
+
+/*ul li:nth-child(even)  { /* los numeros pares
+  border: 2px solid red;
+}*/
+
+ul li:nth-child(3n+1) {
+  border: 2px solid red;
+}

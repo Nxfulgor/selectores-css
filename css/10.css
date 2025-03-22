@@ -1,0 +1,7 @@
+a[href^="http"] { /*Al usar ^ dice que todos los que tenga http en alguna parte*/
+  color: red;
+}
+
+input[type="tel"] {
+  border: 5px solid red;
+}

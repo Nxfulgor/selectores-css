@@ -1,0 +1,3 @@
+.admin > div { /* solo es poner > para primer NIVEL DE HIJO*/
+  border: 2px solid red;
+}

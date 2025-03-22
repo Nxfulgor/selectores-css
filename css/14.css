@@ -1,0 +1,3 @@
+p:not(.texto, .oferta) { /*Seleccionar todos menos el que le pongas en el parentesis*/
+  color: red;
+}

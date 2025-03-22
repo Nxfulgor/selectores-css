@@ -1,0 +1,19 @@
+.texto {
+  background-color: red;
+}
+
+.azul {
+  color: blue;
+}
+
+.mayusculas {
+  text-transform: uppercase;
+}
+
+.texto.mayusculas { /* Ojo sin espacios*/
+  font-size: 10rem;
+}
+
+.texto.azul {
+  text-align: center;
+}

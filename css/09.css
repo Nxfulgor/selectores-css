@@ -1,0 +1,3 @@
+.admin div + p { /* Es para ir a el siguiente nivel despues del div*/
+  background-color: red;
+}
